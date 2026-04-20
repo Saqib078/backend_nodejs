@@ -47,8 +47,8 @@ const transporter = nodemailer.createTransport({
     port:587,
     secure:false,
     auth:{
-        user:'homesilicon2@gmail.com',
-        pass:'jahoyfiuinlddoed'
+        user:'*******2@gmail.com',
+        pass:'*****************'
     }
 })
 
